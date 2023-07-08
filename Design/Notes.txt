@@ -1,0 +1,9 @@
+https://code.visualstudio.com/docs/python/python-tutorial
+
+Edit contents in  C:\git\TradingBot\Src\web\settings.py 
+    ALLOWED_HOSTS = ['192.168.0.98', '107.5.94.36','localhost', '127.0.0.1']
+Edit Port Forwarding/Port Triggering in NetGear
+1		HTTP	BOTH: 9724	Any	BOTH: 9724	192.168.0.98
+python manage.py runserver 0.0.0.0:9724
+
+http://107.5.94.36:9724

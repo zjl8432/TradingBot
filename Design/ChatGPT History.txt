@@ -46,6 +46,6 @@ These are just a few examples, and there are many more extensions available in t
 
 Remember to review the extension details, ratings, and user reviews to find the ones that suit your needs and have been well-received by the community.
 
-
-
+Github authorization manager
+http://localhost:59045/?code=9b80e928e7a18bb9aab9&state=59b6f207b53e43acba5069695491e092
 
